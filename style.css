@@ -53,8 +53,9 @@ ul  li a{
     text-decoration: none;
     color:#ff7200;
     font-family:Arial;
+    font-size: larger;
     font-weight: bold;
-    transition: 0.2s ease-in-out;
+    transition: 0.1s ease-in-out;
 }
 
 ul li a:hover{
@@ -72,7 +73,7 @@ ul li a:hover{
     height: 35px;
     background:transparent;
     border:3px solid #ff7200;
-    margin-top: 30px;
+    margin-top: 20px;
     color:#000;
     /* border-right:none; */
     font-size: 16px;
